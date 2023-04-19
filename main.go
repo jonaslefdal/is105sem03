@@ -1,7 +1,7 @@
 package main
 
 import (
-	"root/home/is105sem03/mycrypt"
+	"github.com/jonaslefdal/is105sem03/mycrypt"
 	"fmt"
 )
 
